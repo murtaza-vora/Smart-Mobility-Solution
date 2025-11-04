@@ -25,20 +25,6 @@ The end goal is a scalable solution that helps municipalities reduce delays and 
 - ✅ Reinforcement learning for intersection control  
 - ▶️ Video demonstrations included
 
----
-
-## 📂 Repository Structure
-
-Smart-Mobility-Solution/
-│── videos/ # Demo output clips
-│── simulation_files/ # SUMO-related files (if applicable)
-│── models/ # Detection and RL models (if shared)
-│── experiment_outputs/ # Test logs / images
-│── README.md
-└── other project files...
-
-
-> *Note: Additional files and datasets may be linked via Google Drive due to size.*
 
 ---
 
